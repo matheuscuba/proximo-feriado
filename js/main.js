@@ -23,7 +23,7 @@
     };
 
     self.getIp = function(callback){
-        new Http.Get('http://www.geoplugin.net/json.gp', true)
+        new Http.Get('https://www.geoplugin.net/json.gp', true)
                     .start()
                     .then(function(data){
                         self.local = JSON.parse(data);
