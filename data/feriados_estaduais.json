@@ -1,0 +1,206 @@
+{
+    "AC": {
+        "23/01": {
+            "title": "Dia do evangélico"
+        },
+        "08/03": {
+            "title": "Alusivo ao Dia Internacional da Mulher"
+        },
+        "15/06": {
+            "title": "Aniversário do estado"
+        },
+        "05/09": {
+            "title": "Dia da Amazônia"
+        },
+        "17/11": {
+            "title": "Assinatura do Tratado de Petrópolis",
+            "optional": true
+        }
+    },
+    "AL": {
+        "24/06": {
+            "title": "São João"
+        },
+        "29/06": {
+            "title": "São Pedro"
+        },
+        "16/09": {
+            "title": "Emancipação política"
+        },
+        "20/11": {
+            "title": "Dia da Consciência Negra"
+        }
+    },
+    "AP": {
+        "19/03": {
+            "title": "Dia de São José"
+        },
+        "13/09": {
+            "title": "Criação do Território Federal"
+        },
+        "20/11": {
+            "title": "Dia da Consciência Negra"
+        }
+    },
+    "AM": {
+        "05/09": {
+            "title": "Elevação do Amazonas à categoria de província"
+        },
+        "20/11": {
+            "title": "Dia da Consciência Negra"
+        },
+        "08/12": {
+            "title": "Nossa Senhora da Conceição"
+        }
+    },
+    "BA": {
+        "02/07": {
+            "title": "Independência da Bahia"
+        }
+    },
+    "CE": {
+        "19/03": {
+            "title": "Dia de São José"
+        },
+        "25/03": {
+            "title": "Data magna do estado"
+        },
+        "15/08": {
+            "title": "Dia de Nossa Senhora da Assunção"
+        }
+    },
+    "DF": {
+        "21/04": {
+            "title": "Fundação de Brasília"
+        },
+        "30/11": {
+            "title": "Dia do evangélico"
+        }
+    },
+    "ES": {},
+    "GO": {
+        "24/05": {
+            "title": "Dia de Nossa Senhora Auxiliadora"
+        },
+        "24/10":{
+            "title": "Pedra Fundamental de Goiânia"
+        }
+    },
+    "MA": {
+        "28/07": {
+            "title": "Adesão do Maranhão à independência do Brasil"
+        }
+    },
+    "MT": {
+        "20/11": {
+            "title": "Dia da Consciência Negra"
+        }
+    },
+    "MS": {
+        "11/10": {
+            "title": "Criação do estado"
+        }
+    },
+    "MG": {
+        "21/04": {
+            "title": "Data magna do estado"
+        }
+    },
+    "PA": {
+        "15/08": {
+            "title": "Adesão do Pará à independência do Brasil"
+        }
+    },
+    "PB": {
+        "26/07": {
+            "title": "Homenagem à memória do ex-presidente João Pessoa"
+        },
+        "05/07": {
+            "title": "Fundação do Estado / Nossa Senhora das Neves"
+        }
+    },
+    "PR": {
+        "19/12": {
+            "title": "Emancipação política do estado do Paraná"
+        }
+    },
+    "PE": {
+        "06/03": {
+            "title": "Revolução Pernambucana de 1817"
+        },
+        "24/06": {
+            "title": "Festa de São João"
+        },
+        "16/07": {
+            "title": "Dia de Nossa Senhora do Carmo"
+        },
+        "08/12": {
+            "title": "Dia de Nossa Senhora da Conceição"
+        }
+    },
+    "PI": {
+        "19/10": {
+            "title": "Dia do Piauí"
+        }
+    },
+    "RJ": {
+        "23/04": {
+            "title": "Dia de São Jorge"
+        },
+        "20/11": {
+            "title": "Dia da Consciência Negra"
+        }
+    },
+    "RN": {
+        "03/10": {
+            "title": "Mártires de Cunhaú e Uruaçu"
+        }
+    },
+    "RS": {
+        "20/09": {
+            "title": "Proclamação da República Rio-Grandense"
+        }
+    },
+    "RO": {
+        "04/01": {
+            "title": "Criação do estado"
+        },
+        "18/06": {
+            "title": "Dia do evangélico"
+        }
+    },
+    "RR": {
+        "05/10": {
+            "title": "Criação do estado"
+        }
+    },
+    "SC": {
+        "11/08": {
+            "title": "Dia de Santa Catarina"
+        },
+        "25/11": {
+            "title": "Dia de Santa Catarina de Alexandria"
+        }
+    },
+    "SP": {
+        "09/07": {
+            "title": "Revolução Constitucionalista de 1932"
+        }
+    },
+    "SE": {
+        "08/07": {
+            "title": "Emancipação política de Sergipe"
+        }
+    },
+    "TO": {
+        "05/10": {
+            "title": "Criação do estado"
+        },
+        "18/03": {
+            "title": "Autonomia do Estado"
+        },
+        "08/09": {
+            "title": "Padroeira do Estado"
+        }
+    }
+}

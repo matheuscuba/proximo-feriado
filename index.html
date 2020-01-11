@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Quando é o próximo feriado?</title>
+
+        <meta charset="utf-8">
+	
+        <meta property='og:title' content='Pacote de Ícones de Bancos Brasileiros'/>
+        <meta property='og:image' content='https://camo.githubusercontent.com/59486a558147d5b593527c05c2e3cfbea9966521/68747470733a2f2f692e696d6775722e636f6d2f6342567a4469302e706e67'/>
+        <meta property='og:description' content='Webfont de diversos ícones de bancos para ser utilizado na sua aplicação, seja ela Web ou Desktop'/>
+        <meta property='og:url' content='https://matheusmcuba.github.io/icones-bancos-brasileiros/' />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+
+        <main>
+            <div class="calendar">
+                <div class="header">
+                    FALTAM
+                </div>
+                <div class="body">
+                    <span class="days" id="days">365</span>
+                    <span class="label">dias para o próximo feriado</span>
+                </div>
+            </div>            
+            <span id="holiday"></span>
+        </main>
+
+        <script src="plugins/http.js"></script>
+        <script src="plugins/countup.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,977 @@
+{
+    "AC": { },
+    "AL": { },
+    "AP": { },
+    "AM": { },
+    "BA": {
+        "2900702": {
+            "city": "Alagoinhas",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "2905701": {
+            "city": "Camaçari",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "2930501": {
+            "city": "Serrinha",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "2909802": {
+            "city": "Cruz das Almas",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "CE": { },
+    "DF": { },
+    "ES": {
+        "3201308": {
+            "city": "Cariacica",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3202405": {
+            "city": "Guarapari",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "GO": { 
+        "5201405": {
+            "city": "Aparecida de Goiânia",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "5208707": {
+            "city": "Goiânia",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "5207907": {
+            "city": "Flores de Goiás",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "5219407": {
+            "city": "Santa Rita do Araguaia",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            } 
+        }
+    },
+    "MA": {
+        "2108207": {
+            "city": "Pedreiras",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "MT": { 
+        "3101508": {
+            "city": "Além Paraiba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3106705": {
+            "city": "Betim",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3128402": {
+            "city": "Guarani",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3129509": {
+            "city": "Ibiá",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3134905": {
+            "city": "Jacutinga",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3136702": {
+            "city": "Juiz De Fora",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3143302": {
+            "city": "Montes Claros",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3160702": {
+            "city": "Santos Dumont",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3165404": {
+            "city": "Sapucai-Mirim",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "MS": { },
+    "MG": { },
+    "PA": { },
+    "PB": { },
+    "PR": {
+        "4109401": {
+            "city": "Guarapuava",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "4113700": {
+            "city": "Londrina",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "PE": { },
+    "PI": { },
+    "RJ": { },
+    "RN": { },
+    "RS": { 
+        "4305108": {
+            "city": "Caxias do Sul",
+            "days": {
+                "26/05": {
+                    "title": "Nossa Senhora do Caravaggio"
+                }
+            }
+        },
+        "4308201": {
+            "city": "Flores da Cunha",
+            "days": {
+                "26/05": {
+                    "title": "Nossa Senhora do Caravaggio"
+                }
+            }
+        }
+    },
+    "RO": { },
+    "RR": { },
+    "SC": {
+        "4205407": {
+            "city": "Florianópolis",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+    },
+    "SP": {
+        "3500303": {
+            "city": "Aguai",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3500402": {
+            "city": "Águas Da Prata",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3500600": {
+            "city": "Águas De São Pedro",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3501004": {
+            "city": "Altinópolis",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3501608": {
+            "city": "Americana",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3501707": {
+            "city": "Americo Brasiliense",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3501905": {
+            "city": "Amparo",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3502507": {
+            "city": "Aparecida",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3502804": {
+            "city": "Araçatuba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3502903": {
+            "city": "Aracoiaba da Serra",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3503208": {
+            "city": "Araraquara",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3503307": {
+            "city": "Araras",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3504909": {
+            "city": "Bananal",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3505500": {
+            "city": "Barretos",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3505708": {
+            "city": "Barueri",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3506904": {
+            "city": "Bofete",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3507407": {
+            "city": "Borborema",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3508108": {
+            "city": "Buritama",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3508405": {
+            "city": "Cabreuva",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3509304": {
+            "city": "Cajobi",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3509502": {
+            "city": "Campinas",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3509700": {
+            "city": "Campos do Jordão",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3509957": {
+            "city": "Canas",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3510401": {
+            "city": "Capivari",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3510500": {
+            "city": "Caraguatatuba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3510609": {
+            "city": "Carapicuíba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3511706": {
+            "city": "Charqueada",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3557204": {
+            "city": "Chavantes",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3512407": {
+            "city": "Cordeirópolis",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3513801": {
+            "city": "Diadema",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3515103": {
+            "city": "Embu-Guaçu",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3515004": {
+            "city": "Embu Das Artes",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3504107": {
+            "city": "Estância De Atibaia",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3516002": {
+            "city": "Florida Paulista",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3516200": {
+            "city": "Franca",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3516408": {
+            "city": "Franco Da Rocha",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3516309": {
+            "city": "Francisco Morato",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3517000": {
+            "city": "Getulina",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3517406": {
+            "city": "Guaira",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3518701": {
+            "city": "Guarujá",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3518800": {
+            "city": "Guarulhos",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3519071": {
+            "city": "",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3520400": {
+            "city": "Ilhabela",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3522109": {
+            "city": "Itanhaem",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3522208": {
+            "city": "Itapecerica da Serra",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3522406": {
+            "city": "Itapeva",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3522505": {
+            "city": "Itapevi",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3523206": {
+            "city": "Itararé",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3523404": {
+            "city": "Itatiba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3523909": {
+            "city": "Itu",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3524105": {
+            "city": "Ituverava",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3524709": {
+            "city": "Jaguariuna",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3524907": {
+            "city": "Jambeiro",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3525003": {
+            "city": "",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3525201": {
+            "city": "Jarinu",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3525300": {
+            "city": "Jaú",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3525904": {
+            "city": "Jundiaí",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3526209": {
+            "city": "Juquitiba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3526704": {
+            "city": "Leme",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3526902": {
+            "city": "Limeira",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3529401": {
+            "city": "Mauá",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3530508": {
+            "city": "Mococa",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3535705": {
+            "city": "Paraiso",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3536604": {
+            "city": "Paulo de Faria",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3537107": {
+            "city": "Pedreira",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3537206": {
+            "city": "Pedro de Toledo",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3537404": {
+            "city": "Pereira Barreto",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3537602": {
+            "city": "",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3538709": {
+            "city": "Piracicaba",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3539103": {
+            "city": "Pirapora do Bom Jesus",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3540606": {
+            "city": "Porto Feliz",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3543303": {
+            "city": "Ribeirão Pires",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3543709": {
+            "city": "Rincão",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3543907": {
+            "city": "Rio Claro",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3544103": {
+            "city": "Rio Grande Da Serra",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3545001": {
+            "city": "Salesópolis",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3545209": {
+            "city": "Salto",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3545704": {
+            "city": "Santa Albertina",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3546801": {
+            "city": "Santa Isabel",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3547601": {
+            "city": "Santa Rosa de Viterbo",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3547809": {
+            "city": "Santo André",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3548500": {
+            "city": "Santos",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3548708": {
+            "city": "São Bernardo do Campo",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3548807": {
+            "city": "São Caetano do Sul",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3549102": {
+            "city": "São João Da Boa Vista",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3550308": {
+            "city": "São Paulo",
+            "days": {
+                "25/01": {
+                    "title": "Aniversário de São Paulo"
+                },
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3551009": {
+            "city": "São Vicente",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3551801": {
+            "city": "Sete Barras",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3552205": {
+            "city": "",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3552403": {
+            "city": "Sumaré",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3552502": {
+            "city": "Suzano",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        },
+        "3557006": {
+            "city": "Votorantim",
+            "days": {
+                "20/11": {
+                    "title": "Dia da Consciência Negra"
+                }
+            }
+        }
+     },
+    "SE": { },
+    "TO": { }
+}
