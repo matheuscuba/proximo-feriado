@@ -50,13 +50,6 @@
                 });
             }
         );
-
-        // new Http.Get(paths.root + 'data/feriados_estaduais.json', true)
-        //     .start()
-        //     .then(function(response) {
-        //         self.feriados.estaduais = response;
-
-        // });
     }
 
 
@@ -90,6 +83,8 @@
         nextHolidays = nextHolidays.sort(function(x, y){
             return x.date - y.date;
         });
+
+        console.log('feriados', nextHolidays);
 
         let nextOne = nextHolidays[0];
         let days = Math.round((nextOne.date - today)/(1000*60*60*24))
