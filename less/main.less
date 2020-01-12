@@ -19,6 +19,7 @@ main{
     min-height: 450px;
 
     display: flex;
+    position: relative;
     justify-items: center;
     align-items: center;
     flex-direction: column;
@@ -28,6 +29,82 @@ main{
     -webkit-box-shadow: 0px 0px 19px 4px rgba(0,0,0,0.22); 
     box-shadow: 0px 0px 19px 4px rgba(0,0,0,0.22);
 
+    .firulas{
+        position: absolute;
+        width: ~"calc(100% - 2rem)";
+        left: 0;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 0;
+        padding: 0 1rem;
+
+        li{
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            background-color: @gray;
+            border-radius: 50%;
+            transform: translateY(-50%);
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+            &:after{
+                content: '';
+                width: 40px;
+                height: 20px;
+                border-bottom-left-radius: 80px;
+                border-bottom-right-radius: 80px;
+                background: @blue;
+            }
+
+            &:before{
+                content: '';
+                width: 40px;
+                height: 20px;
+                border-top-left-radius: 80px;
+                border-top-right-radius: 80px;
+                background: @blue-light;
+            }
+
+            span{
+                width: 45%;
+                height: 50%;
+                background: @blue;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+            }
+
+            i{
+                width: 10px;
+                height: 10px;
+                background-color: @white;
+                position: absolute;
+                border-radius: 100%;
+                bottom: 0;
+                left: 30%;
+                transform: translateY(25%);
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+
+                &:before{
+                    content: '';
+                    width: 7px;
+                    height: 5px;
+                    margin: 1px -1px 0 0;
+                    background-color: @gray;
+                    border-top-left-radius: 10px;
+                    border-bottom-left-radius: 10px;
+                }
+            }
+        }
+    }
+
     .header{
         background: @blue;
         width: 100%;
@@ -35,7 +112,7 @@ main{
         border-radius: 30px;
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
-        padding: 2rem 0;
+        padding: 3rem 0 2rem;
         
         display: flex;
         justify-content: center;

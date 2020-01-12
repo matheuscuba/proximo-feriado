@@ -23,10 +23,11 @@
     };
 
     self.getIp = function(callback){
-        new Http.Get('https://www.geoplugin.net/json.gp', true)
+        new Http.Get('https://ipapi.co/json/', true)
                     .start()
                     .then(function(data){
-                        self.local = JSON.parse(data);
+                        self.local.state = data.region_code;
+                        self.local.city = data.city;
                         callback();
                     })
     }
@@ -66,8 +67,8 @@
 
         let selectedHolidays = self.feriados.nacionais; 
 
-        if(self.feriados.estaduais[self.local.geoplugin_regionCode]){
-            selectedHolidays = Object.assign(selectedHolidays, self.feriados.estaduais[self.local.geoplugin_regionCode]);
+        if(self.feriados.estaduais[self.local.state]){
+            selectedHolidays = Object.assign(selectedHolidays, self.feriados.estaduais[self.local.state]);
         }
 
         for(let holiday in selectedHolidays){
@@ -89,8 +90,6 @@
         nextHolidays = nextHolidays.sort(function(x, y){
             return x.date - y.date;
         });
-
-        console.log(nextHolidays);
 
         let nextOne = nextHolidays[0];
         let days = Math.round((nextOne.date - today)/(1000*60*60*24))
