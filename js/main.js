@@ -36,15 +36,15 @@
         new Http.Get(paths.root + 'data/feriados_nacionais.json', true)
             .start()
             .then(function(response) {
-                self.feriados.nacionais = response;
+                self.feriados.nacionais = JSON.parse(response);
                 new Http.Get(paths.root + 'data/feriados_estaduais.json', true)
                     .start()
                     .then(function(response) {
-                        self.feriados.estaduais = response;
+                        self.feriados.estaduais = JSON.parse(response);
                         new Http.Get(paths.root + 'data/feriados_municipais.json', true)
                             .start()
                             .then(function(response) {
-                                self.feriados.municipais = response;
+                                self.feriados.municipais = JSON.parse(response);
                                 self.calcNextHoliday();
                         });
                 });
@@ -83,8 +83,6 @@
         nextHolidays = nextHolidays.sort(function(x, y){
             return x.date - y.date;
         });
-
-        console.log('feriados', nextHolidays);
 
         let nextOne = nextHolidays[0];
         let days = Math.round((nextOne.date - today)/(1000*60*60*24))
